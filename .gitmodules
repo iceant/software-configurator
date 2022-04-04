@@ -1,0 +1,6 @@
+[submodule "deps/lua"]
+	path = deps/lua
+	url = https://github.com/lua/lua.git
+[submodule "deps/luajit"]
+	path = deps/luajit
+	url = https://github.com/LuaJIT/LuaJIT
